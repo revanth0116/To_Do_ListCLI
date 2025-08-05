@@ -60,6 +60,9 @@ Enter Number from 1 - 4: 4
 Are you sure you want to exit? (y/n): y
 Thank you! 
 
+<img width="1478" height="714" alt="Image" src="https://github.com/user-attachments/assets/4c25a3b6-d6b6-4c52-968f-e80ddf5ce0ac" />
+
+
 
 
 
